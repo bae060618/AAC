@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- 배경색 지정 -->
+    <solid android:color="#F5F5F5" />
+
+    <!-- 둥근 모서리 반지름 -->
+    <corners android:radius="16dp" />
+
+    <!-- 선택적으로 내부 여백 추가 가능
+    <padding
+        android:bottom="8dp"
+        android:left="8dp"
+        android:right="8dp"
+        android:top="8dp" /> -->
+
+</shape>

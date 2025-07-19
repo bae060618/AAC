@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "97368537028",
+    "project_id": "aac-app-878db",
+    "storage_bucket": "aac-app-878db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97368537028:android:4a5cb90ca2036620dd5691",
+        "android_client_info": {
+          "package_name": "com.example.aac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97368537028-982tskpb5itrid9abv6q3kgv9thsgorq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aac",
+            "certificate_hash": "2abd1af4127fa0cc4a3fcbf4e832f9b99ed5a19a"
+          }
+        },
+        {
+          "client_id": "97368537028-qh9mcu1lsmm5euc95pemcr8dat96rk7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZurB6dpUX04k7Mqf_ZMzK_uYLGCT93MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97368537028-qh9mcu1lsmm5euc95pemcr8dat96rk7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

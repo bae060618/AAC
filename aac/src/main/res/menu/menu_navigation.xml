@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@android:drawable/ic_menu_share"
+        android:id="@+id/nav_item1"
+        android:title="프로필"/>
+    <item
+        android:icon="@android:drawable/ic_menu_help"
+        android:id="@+id/nav_item2"
+        android:title="즐겨찾기"/>
+    <item
+        android:icon="@android:drawable/ic_menu_search"
+        android:id="@+id/nav_item3"
+        android:title="로그아웃"/>
+    <item
+        android:icon="@android:drawable/ic_menu_add"
+        android:id="@+id/nav_item5"
+        android:title="홈화면"/>
+    <item
+        android:icon="@android:drawable/ic_menu_add"
+        android:id="@+id/nav_item6"
+        android:title="오늘의 책 추천"/>
+    <item
+        android:icon="@android:drawable/ic_menu_add"
+        android:id="@+id/nav_item7"
+        android:title="저장한 책"/>
+
+    <item
+        android:icon="@android:drawable/ic_menu_add"
+        android:id="@+id/nav_item4"
+        android:title="종료하기"/>
+
+
+</menu>
